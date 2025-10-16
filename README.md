@@ -25,13 +25,13 @@ El repositorio está organizado de la siguiente manera:
 |
 ├── tcp_pubsub.pcap       # Captura de tráfico Wireshark para la prueba con TCP
 ├── udp_pubsub.pcap       # Captura de tráfico Wireshark para la prueba con UDP
-└── README.md             # Este archivo```
+└── README.md             # Este archivo
 ```
 
 ## **Prerrequisitos**
 
 Para compilar y ejecutar este proyecto, necesitarás:
-*   Un compilador de C, preferiblemente **GCC**.
+*   Un compilador de C, preferiblemente GCC.
 *   Un sistema operativo basado en Linux (recomendado para la compatibilidad de sockets) o wsl en windows.
 
 ## **Compilación**
